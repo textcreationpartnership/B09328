@@ -1,0 +1,521 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Churches ardent love to Christ being a paraphrase on Cant. 1. 2, 3 / by J.J.</title>
+            <author>Jordan, Joshua.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09328</idno>
+            <idno type="STC">Wing J1018E</idno>
+            <idno type="STC">ESTC R224437</idno>
+            <idno type="EEBO-CITATION">64551338</idno>
+            <idno type="OCLC">ocm 64551338</idno>
+            <idno type="VID">184620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184620)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2868:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Churches ardent love to Christ being a paraphrase on Cant. 1. 2, 3 / by J.J.</title>
+                  <author>Jordan, Joshua.</author>
+                  <author>R. B. To the ingenious Mr. Joshua Jordan on his foregoing poem.</author>
+                  <author>C. B. To the bookseller on the foregoing poem.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Taylor at the Ship in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Joshua Jordan.  Cf. Wing (2nd ed.).</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: broadside creased and stained.</note>
+                  <note>Includes the Song of Solomon chapter paraphrases as well as 2 additional poems dedicated to Jordan and to the bookseller initialed by the authors.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+                  <note>The Churches ardent love to Christ being a paraphrase on Cant. 1. 2, 3 / by J.J. -- To the ingenious Mr. Joshua Jordan on his foregoing poem / R.B. -- To the bookseller on the foregoing poem / C.B.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jordan, Joshua --  Poetry.</term>
+               <term>Bible. --  O.T. --  Song of Solomon --  Paraphrases, English.</term>
+               <term>Bible. --  Selections --  Paraphrases, English.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:184620:1" rendition="simple:additions"/>
+            <head>THE CHURCHES Ardent LOVE to CHRIST.</head>
+            <head type="sub">Being a PARAPHRASE on <hi>Cant.</hi> 1.2, 3.</head>
+            <byline>By <hi>J. J.</hi>
+            </byline>
+            <div type="to_the_reader">
+               <head>To the <hi>READER.</hi>
+               </head>
+               <opener>
+                  <salute>READER,</salute>
+               </opener>
+               <lg>
+                  <l>IF thou haſt holy flames which ne'er do ceaſe,</l>
+                  <l>This Poem read, it may thy flames increaſe:</l>
+                  <l>Or if thou art Prophane, here thou may'ſt ſee</l>
+                  <l>To the true Church, thy Non-conformity.</l>
+                  <l>Some I have known, who highly did admire</l>
+                  <l>That any ſhould be ſing'd in <hi>Cupid</hi>'s fire,</l>
+                  <l>Yet have themſelves found it too hot at laſt,</l>
+                  <l>To bear the ſcalding heat but of a Blaſt.</l>
+                  <l>So thou that art Prophane, thou mayſt admire</l>
+                  <l>That any ſhould be fond of Holy Fire,</l>
+                  <l>Yet may a holy ſpark ſome time or other</l>
+                  <l>Take in thy heart, which thou mayſt never ſmother;</l>
+                  <l>And who can tell, but that this <hi>Poem</hi> may</l>
+                  <l>That ſpark produce, wouldſt thou but read and pray.</l>
+                  <l>Perchance thou mayſt in reading raiſe ſome Jeers,</l>
+                  <l>For ought I know, thou mayſt let fall ſome Tears:</l>
+                  <l>He may be won, that longeſt doth reſist,</l>
+                  <l>
+                     <hi>The Spirits wind doth blow, where it doth liſt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I'll ne'er deſpair of any, whilſt I ſee</l>
+                  <l>A fruitleſs Tree, may next year fruitful be.</l>
+               </lg>
+               <lg>
+                  <l>But yet remember this, there's nothing brings</l>
+                  <l>More danger, than to ſcoff at ſacred things;</l>
+                  <l>The Song was his, who wiſeſt was of <hi>Kings.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>My ſtyle's too low for matter ſo Divine;</l>
+                  <l>The R<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> is dull, the Precious-ſtone doth ſhine,</l>
+                  <l>Take thou the Stone, and let the Ring be mine.</l>
+               </lg>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <epigraph>
+               <q>
+                  <bibl>Cant. <hi>1. 2 &amp; 3 Verſes.</hi>
+                  </bibl>
+                  <p>Let him Kiſs me with the K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſes of his Mouth, for thy Love is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>etter than Wine.</p>
+                  <p>Becauſe of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſavour of thy good Oyntments, thy name is as Oyntment poured out, therefore do the Virgins Love thee.</p>
+               </q>
+            </epigraph>
+            <lg>
+               <l>W<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Tongue ſufficient <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> expreſs my grief,</l>
+               <l>W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> preſence gives <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>In all my ſtreights? Sole Object of my joy,</l>
+               <l>(To whom the World compar'd, is but a toy,</l>
+               <l>Which never can my pooreſt fancy pleaſe,</l>
+               <l>Without thy bleſſed Self:) O come and eaſe</l>
+               <l>My wounded Love-ſick heart: Its ſacred fire,</l>
+               <l>If thou ſuſtaineſt not, 'twill ſoon expire.</l>
+               <l>Thou did'ſt inkindle it, to purge out ſin,</l>
+               <l>And none beſides thy ſelf can keep it in.</l>
+               <l>Should it go out, Death ſoon would me ſurprize,</l>
+               <l>And triumph too, in cloſing of mine eyes.</l>
+               <l>My Love and Life, are interwoven ſo,</l>
+               <l>As one cannot without the other go;</l>
+               <l>O! therefore come, with thy enlivening breath,</l>
+               <l>Blow up my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eals, I may not mourn to Death.</l>
+               <l>I <hi>Salamander</hi> like, can be content</l>
+               <l>No where, but in Love's fiery Element,</l>
+               <l>Nor comfort take, but while my flames exalt</l>
+               <l>Their Curling-tops above the Azure Vault;</l>
+               <l>And thou alone canſt make them ſo to burn:</l>
+               <l>O! therefore, how I long for thy Return!</l>
+            </lg>
+            <lg>
+               <l>Let there no Zenith, there no Nadir be,</l>
+               <l>To ſeparate my dear Bridegroom from me:</l>
+               <l>Stand off thou Eaſt and Weſt, thou North and South,</l>
+               <l>
+                  <hi>Let him me kiſs with th' kiſſes of his mouth.</hi>
+               </l>
+               <l>Their favours will not only keep me chaſte,</l>
+               <l>But be of Glory too a good foretaſte;</l>
+               <l>They will ſuch Sweets convey into my heart,</l>
+               <l>As Heaven itſelf no better can impart.</l>
+               <l>So I for waiting ſhall a full amends</l>
+               <l>Receive, and make it known to Foes and Friends,</l>
+               <l>That all may ſee how ſweet a Spouſe I have,</l>
+               <l>And may the ſame endearing Kiſſes crave:</l>
+               <l>His Kiſſes ſo enamour will the Soul,</l>
+               <l>As nought but Love divine, ſhall there controul.</l>
+               <l>Be gone thou World; let not a frown or ſmile</l>
+               <l>Of thine, (wherewith thou many doſt beguile,)</l>
+               <l>Fill any place 'twixt him and me: Go, go</l>
+               <l>To thoſe that place their happineſs below:</l>
+               <l>I'll harbour no Competitor, for I</l>
+               <l>Reſolve to him to live, for him to die;</l>
+               <l>So Ardent is my Love, I cannot brook,</l>
+               <l>That ought ſhould hinder me but of a Look.</l>
+               <l>With his ſweet breath let me be ſo perfum'd,</l>
+               <l>As all thoſe naſty Worms may be conſum'd,</l>
+               <l>Bred by the want of it: His pow'rful breath</l>
+               <l>Can blow them all beneath the power of Death,</l>
+               <l>And cleanſe my ſully'd Soul and Body ſo,</l>
+               <l>As both ſhall whiter be than driven Snow.</l>
+            </lg>
+            <lg>
+               <l>Such diſtances are nothing to my Dear,</l>
+               <l>I can no ſooner wiſh, but lo he's near:</l>
+               <l>I knew this glorious Sun was nigh to dawn,</l>
+               <l>Becauſe I felt my frozen heart was thawn.</l>
+               <l>Lo, at their wideſt ſpread, are here mine arms</l>
+               <l>Thee to embrace: My heart is fill'd with Charms</l>
+               <l>Of Love. Ye everlaſting doors ſtand ope,</l>
+               <l>And let the King of Glory have full ſcope</l>
+               <l>To enter in; O! come, poſſeſs thine own,</l>
+               <l>Within my Heart ſet up thy Kingly Throne;</l>
+               <l>Rule in my Heart, and rule thou there alone,</l>
+               <l>Caſt out all thoſe which oft have made me groan;</l>
+               <l>
+                  <hi>For thy dear Love far better is than Wine,</hi>
+               </l>
+               <l>That cheers my heart, but This makes it divine:</l>
+               <l>Yea, 't hath a Vertue too, more worth than Gold,</l>
+               <l>It changeth Enmity into Loves mold;</l>
+               <l>For even thoſe that did thee hate, and by</l>
+               <l>Falſe Lovers were defil'd, thy glancing Eye</l>
+               <l>Hath made them quit thoſe Lovers all, to cleave</l>
+               <l>To thee, knowing thou ne'er wilt them deceive.</l>
+               <l>Yea, it tranſcends all worldly Joys ſo far,</l>
+               <l>As it admits not of the leaſt compare;</l>
+               <l>Nay ſhould they be compar'd, (ſubſtracting trouble)</l>
+               <l>The World, in full, could never weigh a Bubble.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Verſe</hi> 3.</head>
+               <l>Thou great Chirurgeon of Mankind, thou haſt</l>
+               <l>Both Power and Will to cure (but with a Caſt</l>
+               <l>Of thy moſt bright and radient Eye) the heart,</l>
+               <l>Though wounded through with Satans fiery dart.</l>
+               <l>The goodneſs of thine <hi>Oyntment</hi> too is ſuch,</l>
+               <l>All Maladies 't hath cur'd but with a Toutch.</l>
+               <l>Its ſovereign vertues when thou didſt make known,</l>
+               <l>(How it had cur'd the World of being none;</l>
+               <l>Yea, when 'twas ſelf-deſtroy'd, and had Death's groan</l>
+               <l>Upon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,) then its ſweet Savour did diſperſe</l>
+               <l>Such ſweet Perfumes throughout the Univerſe,</l>
+               <l>So mixt with Love and Grace, that <hi>Virgins</hi> all,</l>
+               <l>By a moſt dear Impulſe, could not but fall</l>
+               <l>In Love with thee. That thou that didſt Eternity</l>
+               <l>Enjoy, with all above that yonder Sky,</l>
+               <l>Where true and everlaſting Joys abound;</l>
+               <l>And if there no Aſſociates had been found,</l>
+               <l>Hadſt happy been in thine ownſelfs enjoyment,</l>
+               <l>W<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> the ſla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſh trouble of Employment,</l>
+               <l>Shouldſt yet have thoughts of making Man, and for</l>
+               <l>His Dwelling-place, a World that ſhould concur</l>
+               <l>With him, to anſwer all his needs; and then,</l>
+               <l>To joy to dwell among the Sons of Men;</l>
+               <l>And for that World t'employ thy Providence,</l>
+               <l>Both for its Suſtentation and Defence;</l>
+               <l>And t'undertake the toyl to rule't, although</l>
+               <l>Thou knew'ſt that Man (thy Deputy) would grow</l>
+               <l>More wild, than wildeſt Bruits, and thee forſake.</l>
+               <l>And that this World thou ſhouldſt of nothing make,</l>
+               <l>And Man but of a dirty Clod of Clay,</l>
+               <l>And dart into him ſuch a glorious Ray,</l>
+               <l>As did thy bleſſed Image on him ſtamp,</l>
+               <l>And place within him ſuch a heavenly Lamp,</l>
+               <l>As might have guided him in all his ways,</l>
+               <l>And brought him ſafe to Glory, thee to Praiſe!</l>
+            </lg>
+            <lg>
+               <l>But O! let <hi>Seraphims</hi> ſpeak if they can,</l>
+               <l>It is above the reach of <hi>Finite Man,</hi>
+               </l>
+               <l>The wonderful Stupendiouſneſs to tell</l>
+               <l>Of thy Redeeming Love: That when Man fell</l>
+               <l>From his created ſtate, had quite defaced</l>
+               <l>Thy ſacred Image, all his Oyl was waſted,</l>
+               <l>Extinguiſhed that Lamp, which was his Guide,</l>
+               <l>And nought became, but a huge Maſs of Pride,</l>
+               <l>And yet of Miſery! That thou ſhouldſt leave</l>
+               <l>Thy glorious Throne, Mans Nature to receive!</l>
+               <l>Diſrobe thy ſelf for Raggs, and be content,</l>
+               <l>From thy Dear Fathers boſome, to be ſent</l>
+               <l>Into this World of wickedneſs and wo,</l>
+               <l>Pains far beyond our thoughts to undergo,</l>
+               <l>Such as thou never couldſt have born their Load,</l>
+               <l>Hadſt thou been only Man, and not been God,</l>
+               <l>One drachm whereof t'have born, would e'er have preſt</l>
+               <l>The Univerſe below the hope of Reſt,</l>
+               <l>Yet ſhould, if thou hadſt not the whole have born!</l>
+               <l>Expos'd unto thy Vaſſels greateſt ſcorn!</l>
+               <l>The worſt indignities of vileſt Men!</l>
+               <l>The wrath of an incenſed God! And then</l>
+               <l>Thy ſpotleſs Soul a Sacrifice for Sin</l>
+               <l>To offer up! 'Tis endleſs to begin</l>
+               <l>Thy condeſcending Love t'admire, for all</l>
+               <l>Thy Sufferings were, to free vile Man from thrall,</l>
+               <l>And re-inſtate him in a ſtate of Bliſs</l>
+               <l>Of thy free will, for no deſert of his!</l>
+            </lg>
+            <lg>
+               <l>That thou the <hi>King</hi> ſhouldſt Trayt'rous Man forgive,</l>
+               <l>Yea, die the Traytor's death, that he might live!</l>
+            </lg>
+            <lg>
+               <l>Well might the Worlds bold eye aſhamed be,</l>
+               <l>When Men would not thy Innocency ſee!</l>
+            </lg>
+            <lg>
+               <l>Well might the ſenſeleſs Rocks in ſunder rent,</l>
+               <l>When Reas'n-endowed Men would not relent!</l>
+            </lg>
+            <lg>
+               <l>Well might the ſacred <hi>Temple's</hi> vail be broken,</l>
+               <l>When Worſhippers would ſhew, of grief, no Token!</l>
+            </lg>
+            <lg>
+               <l>Well might dead Bodies riſe out of their Graves,</l>
+               <l>When living Men would not be Free, but Slaves!</l>
+            </lg>
+            <lg>
+               <l>And well might Angels ſtoop themſelves, to ſee</l>
+               <l>The greatneſs of ſo great a Miſtery!</l>
+            </lg>
+            <lg>
+               <l>Theſe works of Love and Wonder have ſuch Fame</l>
+               <l>In Heaven and Earth thee got, as that thy Name</l>
+               <l>Is as moſt precious <hi>Oyntment poured out,</hi>
+               </l>
+               <l>Attracting <hi>Virgins Love</hi> the World throughout,</l>
+               <l>Mounting their Faith above their Hope, with me</l>
+               <l>For e'er to love, and be belov'd of thee.</l>
+            </lg>
+            <lg>
+               <l>And are ſome of thine <hi>Oyntments</hi> ſweet Perfumes,</l>
+               <l>Whoſe Fragrancies have filled all the rooms</l>
+               <l>Of <hi>Virgin-hearts,</hi> whereby they are made fit</l>
+               <l>For thee their King to enter in, and ſit</l>
+               <l>And ſup with them, and make them long to ſee</l>
+               <l>Thy glorious ſelf their welcom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt Gueſt to be.</l>
+               <l>The ſavour of thine <hi>Oyntment</hi> too, is ſweet</l>
+               <l>Both in thy Word and Temples where they meet;</l>
+               <l>O! how they joy, that thou haſt ſo contriv'd,</l>
+               <l>That in thy Word (to keep their hearts reviv'd)</l>
+               <l>As in a glaſs, they may thee ſtill behold:</l>
+               <l>That thou their Spots, and their depraved Mold,</l>
+               <l>Doſt by thy Spirit cleanſe, and make them whiter</l>
+               <l>Than ſcouring can by Fullers Soap and Nitre,</l>
+               <l>And haſt engag'd for ever me t'uphold</l>
+               <l>Againſt Hell gates, or ought that can be told.</l>
+            </lg>
+            <lg>
+               <l>Thy Graces too, prepar'd with heavenly Art,</l>
+               <l>Do Cordialize thine <hi>Oyntment</hi> for the Hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</l>
+               <l>Being ſweet'ned with thy <hi>Promiſes;</hi> theſe deck</l>
+               <l>Thee more than Chains of Gold the pureſt Neck,</l>
+               <l>And ſend ſuch Odours forth, as that they draw</l>
+               <l>With ſweeter Violence than Jet the Straw</l>
+               <l>All <hi>Virgins</hi> unto thee, with power ſuch,</l>
+               <l>The Load-ſtone draws not Iron half ſo much.</l>
+               <l>And thou with theſe, all <hi>Virgins</hi> haſt adorn'd:</l>
+               <l>Theſe Rubies, and theſe Pomanders, though ſcorn'd</l>
+               <l>By others are, yet are by them ſo priz'd,</l>
+               <l>As by thy help, they have them Temperiz'd,</l>
+               <l>So are fit Habitations of thy Spirit,</l>
+               <l>Meet for that glorious Light which Saints inherit,</l>
+               <l>And will at laſt be my Companions found,</l>
+               <l>For they with me, with Love to thee are Crown'd;</l>
+               <l>And theſe our Crowns, which here are made of Love,</l>
+               <l>Will help make up our glorious Crowns above.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="encomium">
+            <head>To the Ingenious Mr. <hi>Joſhua Jordan,</hi> on his foregoing Poem.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>SAY ſacred Bard? What Muſe did thee inſpire?</l>
+               <l>none of the Poets nine, it could not be;</l>
+               <l>I rather think 'twas ſome Diviner fire,</l>
+               <l>and wiſh the ſame would ſo inſpire me.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>So ſweet each Cadence flows, replete with ſenſe,</l>
+               <l>the more I read it, I admire thee more;</l>
+               <l>And ſo attractive is your Eloquence,</l>
+               <l>methinks I have no power to give o'er.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Your ſacred Accents with bright vertue fraught,</l>
+               <l>declares your thoughts are pure, immaculate;</l>
+               <l>Wiſdom and Grace together there is wrought,</l>
+               <l>and ſprightly Wit triumphant ſits in ſtate.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Some may (perhaps) in theſe debauched times,</l>
+               <l>cenſorious be, but let them do their worſt;</l>
+               <l>The Wiſe and Vertuous will affect your Rhimes,</l>
+               <l>whilſt impious Criticks do with envy burſt.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>As when bright <hi>Sol,</hi> hid in a gloomy Cloud,</l>
+               <l>breaks forth, it ſhines more glorious than before;</l>
+               <l>E'en ſo your Verſe, though darkneſs may it ſhroud</l>
+               <l>a while, at length 'twill pleaſe us more and more.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Oxcynthes,</hi> R. B.</signed>
+            </closer>
+         </div>
+         <div type="to_the_bookseller">
+            <head>To the Bookſeller, on the foregoing Poem.</head>
+            <l>THE Author's yet unknown to me, ſo I</l>
+            <l>forbear to ſpeak, for fear I ſhould thereby</l>
+            <l>Detract from his deſert, and hurt his Name,</l>
+            <l>Who once may gain an everlaſting Fame.</l>
+            <l>His <hi>Aim</hi> is good, the Subject's too divine,</l>
+            <l>To be made better by a Pen of mine:</l>
+            <l>The Genius may, by uſe, be more ſublime,</l>
+            <l>And <hi>Dr—n</hi> may become his Friend in time.</l>
+            <l>His <hi>Name</hi> (perhaps) may make the faithleſs World</l>
+            <l>Believe his Muſe from <hi>Helicon</hi> was hurl'd.</l>
+            <l>Till then, I'll ſay no more, than that I am,</l>
+            <l>Your faithful Friend, and ſtill will be the ſame.</l>
+            <closer>
+               <signed>C. B.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>
+               <hi>Licens'd,</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>May 4. 1687.</date>
+               </dateline>
+               <signed>R. M.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Taylor,</hi> at the <hi>Ship</hi> in St. <hi>Paul's Church-yard,</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
